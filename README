@@ -1,5 +1,11 @@
-Linux kernel
-============
+Linux kernel (Forked for custom Linux distribution)
+====================================================
+
+⚠️ Ce dépôt est un fork du noyau Linux original, dans le but de créer une distribution Linux personnalisée.  
+Les modifications apportées dans ce fork peuvent différer significativement du code principal.  
+Ce projet est destiné à l'exploration, l'expérimentation et la construction d'une version alternative du noyau, optimisée pour un système Linux spécifique.
+
+---
 
 There are several guides for kernel developers and users. These guides can
 be rendered in a number of formats, like HTML and PDF. Please read
